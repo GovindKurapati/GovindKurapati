@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindkurapati" alt="govindkurapati" /> </p>
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/GovindKurapati)
@@ -9,7 +9,7 @@
 - 📫 How to reach me **kgovindrar@gmail.com**
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAxMBOEBQyjjhFUhco9kgt8-Md6fgXuUP1xQ&usqp=CAU" alt="c" width="20" height="20"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAxMBOEBQyjjhFUhco9kgt8-Md6fgXuUP1xQ&usqp=CAU" alt="c" width="30" height="30"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5Nv0XNyegzB0AvP-uFh4_A76FVuPg8t2g5g&usqp=CAU" alt="cplusplus" width="20" height="20"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM-S1OtC02gqLg1ktAyf3AYa-wQweIzoYRAg&usqp=CAU" alt="bootstrap" width="20" height="20"/>   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRpWT7uzFuY3bTpLGQdCu6rRqInVOrXiXbtg&usqp=CAU" alt="css3" width="20" height="20"/> 
