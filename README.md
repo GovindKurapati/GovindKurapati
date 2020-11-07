@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindkurapati" alt="govindkurapati" /> </p>
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/GovindKurapati)
+- 👨‍💻 All of my projects are available at [here](https://github.com/GovindKurapati)
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
