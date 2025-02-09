@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Govind K</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<a href="https://www.linkedin.com/in/govind-kurapati/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindkurapati" alt="govindkurapati" /> </p>
 
 - 👨‍💻 All of my projects are available [here](https://github.com/GovindKurapati)
