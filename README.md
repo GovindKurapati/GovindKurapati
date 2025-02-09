@@ -1,6 +1,9 @@
 <h1 align="center">Hi there! 👋 I'm Govind Kurapati</h1>
 <p align="center">
   🚀 MS in CS @ Illinois Tech | Full Stack Developer <br>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/govind-kurapati/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -83,6 +86,7 @@ I love working with **React, Next.js, Node.js, .NET Core, FastAPI**, and more!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindKurapati&layout=compact&theme=radical" alt="Top Languages">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindkurapati" alt="govindkurapati" /> </p>
+
 ---
 
 ⭐ **Thanks for visiting! Feel free to explore my projects and connect with me.** 🚀
