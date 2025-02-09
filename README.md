@@ -1,6 +1,12 @@
 <h1 align="center">Hi there! 👋 I'm Govind Kurapati</h1>
 <p align="center">
-  🚀 MS in CS @ Illinois Tech | Full Stack Developer
+  🚀 MS in CS @ Illinois Tech | Full Stack Developer <br>
+  <a href="https://www.linkedin.com/in/govind-kurapati/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kgovindrarg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -34,7 +40,7 @@ I love working with **React, Next.js, Node.js, .NET Core, FastAPI**, and more!
 
   <!-- Backend Technologies -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-5C2D91?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -58,6 +64,7 @@ I love working with **React, Next.js, Node.js, .NET Core, FastAPI**, and more!
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -76,12 +83,6 @@ I love working with **React, Next.js, Node.js, .NET Core, FastAPI**, and more!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindKurapati&layout=compact&theme=radical" alt="Top Languages">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindkurapati" alt="govindkurapati" /> </p>
----
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/govind-kurapati/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kgovindrarg@gmail.com)
-
 ---
 
 ⭐ **Thanks for visiting! Feel free to explore my projects and connect with me.** 🚀
