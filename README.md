@@ -72,11 +72,6 @@ I love working with **React, Next.js, Node.js, .NET Core, FastAPI**, and more!
 
 ---
 
-## 📌 Notable Projects  
-🔹 **[Portfolio Website](https://govind-kurapati.vercel.app/)** – Built with Next.js and Chakra UI, showcasing my projects and achievements.
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GovindKurapati&show_icons=true&theme=radical" alt="GitHub Stats">
