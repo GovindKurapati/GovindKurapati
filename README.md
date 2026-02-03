@@ -1,6 +1,6 @@
 # Govind Kurapati
 
-Software Engineer | Full-Stack & Cloud-Native Systems  
+Software Engineer | Full-Stack & Cloud-Native Systems
 MS in Computer Science — Illinois Institute of Technology
 
 
@@ -29,5 +29,6 @@ My work focuses on designing **clean architectures**, building **reliable backen
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/govind-kurapati  
+- LinkedIn: https://www.linkedin.com/in/govind-kurapati
+- Website: https://www.govind-kurapati.com
 - Email: kgovindrarg@gmail.com
