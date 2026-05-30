@@ -6,7 +6,7 @@ MS in Computer Science — Illinois Institute of Technology
 
 ## About
 
-I am a software engineer with **4+ years of industry experience** building scalable, production-grade web platforms and cloud-native systems.
+I am a software engineer with **3+ years of industry experience** building scalable, production-grade web platforms and cloud-native systems.
 
 My work focuses on designing **clean architectures**, building **reliable backend services**, and delivering **high-quality user experiences** across the full stack. I have worked in both enterprise and startup environments, contributing to systems used in real-world, high-impact scenarios.
 
